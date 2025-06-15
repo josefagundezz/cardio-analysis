@@ -12,7 +12,7 @@ TEXTS = {
     'es': {
         'page_title': "Análisis de Riesgo Cardiovascular", 'page_icon': "🩺",
         'title': "Dashboard Interactivo de Factores de Riesgo Cardiovascular 🩺",
-        'lang_button': "English",
+        'lang_button': "English / Español",
         'tab1': "🔥 Correlaciones", 'tab2': "📊 Análisis Categórico", 'tab3': "🎻 Análisis Numérico",
         'corr_header': "Correlación entre Variables",
         'corr_desc': "Un mapa de calor para identificar rápidamente las relaciones lineales entre variables. Valores cercanos a +1 (rojo intenso) o -1 (azul intenso) indican una correlación fuerte.",
@@ -30,7 +30,7 @@ TEXTS = {
     'en': {
         'page_title': "Cardiovascular Risk Analysis", 'page_icon': "🩺",
         'title': "Interactive Dashboard of Cardiovascular Risk Factors 🩺",
-        'lang_button': "Español",
+        'lang_button': "Español / English",
         'tab1': "🔥 Correlations", 'tab2': "📊 Categorical Analysis", 'tab3': "🎻 Numerical Analysis",
         'corr_header': "Correlation Between Variables",
         'corr_desc': "A heatmap to quickly identify linear relationships. Values close to +1 (deep red) or -1 (deep blue) indicate a strong correlation.",
